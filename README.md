@@ -1,1 +1,2 @@
-# movie_app_2
+# Movie App
+React second movie app
